@@ -1,6 +1,6 @@
 # Atividade - Padrões de Cores RGB
 
-Projeto desenvolvido para a disciplina Computador e UX.
+Projeto desenvolvido para a disciplina IHC e UX.
 
 ## Conteúdo da atividade
 - Criação de cores utilizando o sistema RGB
